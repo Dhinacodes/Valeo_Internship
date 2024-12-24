@@ -2,7 +2,7 @@
 
 ### Overview
 
-This project was developed during my internship at Valeo, where I worked as part of the Power (Inverter) Team. The goal was to build a search algorithm to optimize the Pulse Width Modulation (PWM) for a given input speed. The algorithm aimed to achieve efficient performance considering key parameters:
+This research was developed during my internship at Valeo, where I worked as part of the Power (Inverter) Team. The goal was to build a search algorithm to optimize the Pulse Width Modulation (PWM) for a given input speed. The algorithm aimed to achieve efficient performance considering key parameters:
 
 Torque pulse
 
