@@ -1,4 +1,4 @@
-## Optimized PWM Search Algorithm
+# Optimized PWM Search Algorithm
 
 Overview
 
@@ -9,17 +9,17 @@ Inverter loss
 Rated torque
 Power delivery
 
-# Explored two primary approaches
+## Explored two primary approaches
 Greedy Algorithm: A heuristic-based method to iteratively improve PWM optimization.
 Mathematical Optimization: Combining the Tchebycheff Norm and Compromise Programming for multi-objective optimization.
 This project highlights my proficiency in algorithm design and optimization within the domain of power inverters.
 
-# Key Features
+## Key Features
 Efficient PWM Search Algorithm: Achieves balance among competing parameters for optimal performance.
 Comparison of Techniques: Performance evaluation of greedy and mathematical approaches.
 Integration with Power Inverter Systems: Ensures practical applicability in real-world automotive systems.
 
-# Tools and Technologies
+## Tools and Technologies
 Programming: Python/Matlab (adapt to your actual tech stack)
 Mathematical Modeling: Tchebycheff Norm and Compromise Programming
 Hardware Knowledge: Power Inverters, PWM
