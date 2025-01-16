@@ -27,7 +27,7 @@ Comparison of Techniques: Performance evaluation of greedy and mathematical appr
 Integration with Power Inverter Systems: Ensures practical applicability in real-world automotive systems.
 
 ## Tools and Technologies
-Programming: Python/Matlab (adapt to your actual tech stack)
+Programming: Python
 
 Mathematical Modeling: Tchebycheff Norm and Compromise Programming
 
